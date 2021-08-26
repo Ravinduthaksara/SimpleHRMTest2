@@ -10,5 +10,6 @@ namespace PeachIT.HRMLite.DAL
         public DbSet<WeatherForecast> WeatherForecasts { get; set; }
 
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Department> Departments { get; set; }
     }
 }

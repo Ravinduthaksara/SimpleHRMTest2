@@ -2,7 +2,6 @@ D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\bin\Debug\net
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\bin\Debug\net5.0\PeachIT.HRMLite.Domain.dll
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\bin\Debug\net5.0\ref\PeachIT.HRMLite.Domain.dll
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\bin\Debug\net5.0\PeachIT.HRMLite.Domain.pdb
-D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\obj\Debug\net5.0\PeachIT.HRMLite.Domain.csproj.AssemblyReference.cache
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\obj\Debug\net5.0\PeachIT.HRMLite.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\obj\Debug\net5.0\PeachIT.HRMLite.Domain.AssemblyInfoInputs.cache
 D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Domain\obj\Debug\net5.0\PeachIT.HRMLite.Domain.AssemblyInfo.cs

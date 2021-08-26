@@ -10,6 +10,7 @@ namespace PeachIT.HRMLite.Infrastructure
         {
             services.AddTransient<IWeatherService, WeatherService>();
             services.AddTransient<IEmployeeService, EmployeeService>();
+            services.AddTransient<IDepartmentService, DepartmentService>();
             services.AddAutoMapper(typeof(MapConfiguration));
 
             return services;

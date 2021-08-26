@@ -10,6 +10,7 @@ namespace PeachIT.HRMLite.Infrastructure
         {
             CreateMap<WeatherForecast, WeatherForecastModel>().ReverseMap();
             CreateMap<Employee, EmployeeModel>().ReverseMap();
+            CreateMap<Department, DepartmentModel>().ReverseMap();
         }
     }
 }
