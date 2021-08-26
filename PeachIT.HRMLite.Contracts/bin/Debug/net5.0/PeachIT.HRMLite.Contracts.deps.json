@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PeachIT.HRMLite.Contracts/1.0.0": {
+        "dependencies": {
+          "PeachIT.HRMLite.Models": "1.0.0"
+        },
+        "runtime": {
+          "PeachIT.HRMLite.Contracts.dll": {}
+        }
+      },
+      "PeachIT.HRMLite.Models/1.0.0": {
+        "runtime": {
+          "PeachIT.HRMLite.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeachIT.HRMLite.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PeachIT.HRMLite.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

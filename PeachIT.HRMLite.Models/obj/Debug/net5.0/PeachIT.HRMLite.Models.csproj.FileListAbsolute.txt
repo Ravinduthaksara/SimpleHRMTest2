@@ -1,0 +1,12 @@
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\bin\Debug\net5.0\PeachIT.HRMLite.Models.deps.json
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\bin\Debug\net5.0\PeachIT.HRMLite.Models.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\bin\Debug\net5.0\ref\PeachIT.HRMLite.Models.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\bin\Debug\net5.0\PeachIT.HRMLite.Models.pdb
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.AssemblyInfo.cs
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\ref\PeachIT.HRMLite.Models.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.pdb
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.Models\obj\Debug\net5.0\PeachIT.HRMLite.Models.csproj.AssemblyReference.cache

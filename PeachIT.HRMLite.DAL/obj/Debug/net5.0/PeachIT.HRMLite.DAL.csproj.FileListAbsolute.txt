@@ -1,0 +1,15 @@
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\PeachIT.HRMLite.DAL.deps.json
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\PeachIT.HRMLite.DAL.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\ref\PeachIT.HRMLite.DAL.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\PeachIT.HRMLite.DAL.pdb
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\PeachIT.HRMLite.Domain.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\bin\Debug\net5.0\PeachIT.HRMLite.Domain.pdb
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.csproj.AssemblyReference.cache
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.AssemblyInfo.cs
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.csproj.CopyComplete
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\ref\PeachIT.HRMLite.DAL.dll
+D:\Programs\Visual Studio\HRMLiteEmployeeEx\PeachIT.HRMLite.DAL\obj\Debug\net5.0\PeachIT.HRMLite.DAL.pdb
